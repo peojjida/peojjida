@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+제가 처음으로 좋아하는 고양이를 펫숍에서 입양하면서 겪었던 어이없는 일들을 당했습니다. 나 같은 피해자가 한 명이라도 줄었으면 하는 마음으로 글을 올리게 되었습니다. 일단 제가 당한 일들을 올릴 겁니다. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+말 못하는 애완동물 가지고 양아치 같은 짓을 하면서 부를 쌓는 쓰레기 같은 사람들 보면 정말 열받고 분합니다. 이런 일들이 노출되어야 되는데 생각보다 펫숍 업체가 이곳저곳 법의 규제를 피해다니면서 나쁜짓을 계속하고 있습니다. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+저의 궁극적 목적은 이런 일들을 수면 밖으로 들어나게 함으로서 사회적 관심을 이르켜 반려동물 관련된 법규가 개선 되었으면 하는 마음입니다. 
